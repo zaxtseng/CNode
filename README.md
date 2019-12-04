@@ -1,4 +1,5 @@
 实战项目: 高仿CNODE社区
+使用Vue-cli2搭建,包含webpack配置.
 
 项目模块组件：
 Header模块
