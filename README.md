@@ -1,6 +1,7 @@
 ## 实战项目: CNODE社区仿站
 使用Vue-cli2搭建,包含webpack配置.
 # 组件目录
+```
 src
 ├─App.vue
 ├─main.js
@@ -16,7 +17,7 @@ src
 ├─assets
 |   ├─cnodejs_light.svg
 |   ├─loading.gif   
-
+```
 ## 项目模块组件：
 Header模块
 PostList模块
