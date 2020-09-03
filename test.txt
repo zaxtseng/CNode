@@ -1,0 +1,15 @@
+src
+├─App.vue
+├─main.js
+├─router
+|   └index.js
+├─components
+|     ├─Article.vue
+|     ├─Header.vue
+|     ├─Pagination.vue
+|     ├─PostList.vue
+|     ├─slideBar.vue
+|     └UserInfo.vue
+├─assets
+|   ├─cnodejs_light.svg
+|   ├─loading.gif   

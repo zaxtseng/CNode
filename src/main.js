@@ -15,9 +15,16 @@ new Vue({
   components: { App },
   template: '<App/>'
 })
+
+
+
+
+
+
 Vue.filter('formatDate',function(str){
   if(!str) return ''
   let date = new Date(str)
+  //当前时间减去发布时间得到时间间隔,即已发布了多久
   let time = new Date().getTime() - date.getTime()//现在的时间-传入的时间=相差的时间(单位-毫秒)
   if (time < 0){
     return ''
