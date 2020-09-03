@@ -1,5 +1,8 @@
 ## 实战项目: CNODE社区仿站
 使用Vue-cli2搭建,包含webpack配置.
+## 预览链接
+<a href="https://zaxtseng.github.io/CNode/dist/index.html" target="_blank">网站预览</a>
+
 # 组件目录
 ```
 src
